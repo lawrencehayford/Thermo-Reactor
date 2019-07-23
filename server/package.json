@@ -1,0 +1,21 @@
+{
+  "name": "SynthaceFrontendTakehomeClient",
+  "private": true,
+  "license": "UNLICENSED",
+  "version": "1.0.0",
+  "description": "A simple ReactJS web app that needs your attention",
+  "main": "./server.js",
+  "scripts": {
+    "start": "./node_modules/nodemon/bin/nodemon.js --exec \"./server.js\" --watch ./",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Synthace Ltd",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "esm": "^3.2.22",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  }
+}
