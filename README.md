@@ -1,5 +1,7 @@
 # React Thermo Reactor
 
+![alt Banner](banner.png?width=500)
+
 ## Getting started
 
 In order to set this up, you'll need to download and install
